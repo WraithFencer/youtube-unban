@@ -1,0 +1,20 @@
+# youtube-unban
+
+> Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
+
+YouTube тормозит из‑за DPI. youtube-unban обходит это на Windows 10/11 одним .bat файлом.
+
+## Страницы
+- Сайт: https://wraithfencer.github.io/youtube-unban/
+- Релиз: https://github.com/WraithFencer/youtube-unban/releases/latest
+- Исходный код: https://github.com/WraithFencer/youtube-unban
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
